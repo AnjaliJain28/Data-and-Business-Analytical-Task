@@ -1,2 +1,2 @@
 # Data-and-Business-Analytical-Task
-Task provide by the team The Spark Foundation for completing the internship.
+Task provide by The Spark Foundation team for completing the internship.
